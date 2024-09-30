@@ -1,0 +1,193 @@
+[{
+  "NUM_OF_IDs": "186",
+  "end_station_name": "Central St Metra",
+  "AVG_OF_RIDING_LENGTH": "9089405.4462365583"
+}, {
+  "NUM_OF_IDs": "85",
+  "end_station_name": "Warren Park East",
+  "AVG_OF_RIDING_LENGTH": "116183329.00017707"
+}, {
+  "NUM_OF_IDs": "102",
+  "end_station_name": "Warren Park West",
+  "AVG_OF_RIDING_LENGTH": "21346370.088507552"
+}, {
+  "NUM_OF_IDs": "66",
+  "end_station_name": "2112 W Peterson Ave",
+  "AVG_OF_RIDING_LENGTH": "10889543.439393938"
+}, {
+  "NUM_OF_IDs": "391",
+  "end_station_name": "Clark St \u0026 Lunt Ave",
+  "AVG_OF_RIDING_LENGTH": "22416501.276220713"
+}, {
+  "NUM_OF_IDs": "60",
+  "end_station_name": "Clark St \u0026 Touhy Ave",
+  "AVG_OF_RIDING_LENGTH": "5376533.1333333338"
+}, {
+  "NUM_OF_IDs": "655",
+  "end_station_name": "Broadway \u0026 Berwyn Ave",
+  "AVG_OF_RIDING_LENGTH": "8519903.7359025925"
+}, {
+  "NUM_OF_IDs": "41",
+  "end_station_name": "Budlong Woods Library",
+  "AVG_OF_RIDING_LENGTH": "14917611.560975607"
+}, {
+  "NUM_OF_IDs": "38",
+  "end_station_name": "Dodge Ave \u0026 Church St",
+  "AVG_OF_RIDING_LENGTH": "9227823.55263158"
+}, {
+  "NUM_OF_IDs": "566",
+  "end_station_name": "Benson Ave \u0026 Church St",
+  "AVG_OF_RIDING_LENGTH": "9246065.5547968727"
+}, {
+  "NUM_OF_IDs": "244",
+  "end_station_name": "Clark St \u0026 Elmdale Ave",
+  "AVG_OF_RIDING_LENGTH": "27589712.528688535"
+}, {
+  "NUM_OF_IDs": "193",
+  "end_station_name": "Damen Ave \u0026 Foster Ave",
+  "AVG_OF_RIDING_LENGTH": "5449588.9948666347"
+}, {
+  "NUM_OF_IDs": "36",
+  "end_station_name": "Dodge Ave \u0026 Mulford St",
+  "AVG_OF_RIDING_LENGTH": "17913194.444444444"
+}, {
+  "NUM_OF_IDs": "58",
+  "end_station_name": "Oakley Ave \u0026 Touhy Ave",
+  "AVG_OF_RIDING_LENGTH": "9791014.1379310358"
+}, {
+  "NUM_OF_IDs": "339",
+  "end_station_name": "Paulina St \u0026 Howard St",
+  "AVG_OF_RIDING_LENGTH": "30679702.781751845"
+}, {
+  "NUM_OF_IDs": "45",
+  "end_station_name": "Ridge Blvd \u0026 Howard St",
+  "AVG_OF_RIDING_LENGTH": "5994251.6668208865"
+}, {
+  "NUM_OF_IDs": "47",
+  "end_station_name": "Ridge Blvd \u0026 Touhy Ave",
+  "AVG_OF_RIDING_LENGTH": "5645698.1277580829"
+}, {
+  "NUM_OF_IDs": "148",
+  "end_station_name": "Western Ave \u0026 Lunt Ave",
+  "AVG_OF_RIDING_LENGTH": "14470657.817606691"
+}, {
+  "NUM_OF_IDs": "97",
+  "end_station_name": "Central St \u0026 Girard Ave",
+  "AVG_OF_RIDING_LENGTH": "10322848.237113403"
+}, {
+  "NUM_OF_IDs": "170",
+  "end_station_name": "Clark St \u0026 Columbia Ave",
+  "AVG_OF_RIDING_LENGTH": "8451569.5471064672"
+}, {
+  "NUM_OF_IDs": "109",
+  "end_station_name": "Elmwood Ave \u0026 Austin St",
+  "AVG_OF_RIDING_LENGTH": "26641937.706422"
+}, {
+  "NUM_OF_IDs": "92",
+  "end_station_name": "Kedzie Ave \u0026 Foster Ave",
+  "AVG_OF_RIDING_LENGTH": "17729989.445652179"
+}, {
+  "NUM_OF_IDs": "936",
+  "end_station_name": "Orleans St \u0026 Hubbard St",
+  "AVG_OF_RIDING_LENGTH": "6054111.6185984025"
+}, {
+  "NUM_OF_IDs": "338",
+  "end_station_name": "University Library (NU)",
+  "AVG_OF_RIDING_LENGTH": "8725976.5178062711"
+}, {
+  "NUM_OF_IDs": "116",
+  "end_station_name": "Western Ave \u0026 Howard St",
+  "AVG_OF_RIDING_LENGTH": "5899713.4568965519"
+}, {
+  "NUM_OF_IDs": "51",
+  "end_station_name": "Bosworth Ave \u0026 Howard St",
+  "AVG_OF_RIDING_LENGTH": "8670863.7843137253"
+}, {
+  "NUM_OF_IDs": "454",
+  "end_station_name": "Broadway \u0026 Granville Ave",
+  "AVG_OF_RIDING_LENGTH": "17399555.063897055"
+}, {
+  "NUM_OF_IDs": "424",
+  "end_station_name": "Broadway \u0026 Thorndale Ave",
+  "AVG_OF_RIDING_LENGTH": "17169378.035377361"
+}, {
+  "NUM_OF_IDs": "534",
+  "end_station_name": "Clark St \u0026 Bryn Mawr Ave",
+  "AVG_OF_RIDING_LENGTH": "9943477.9288562834"
+}, {
+  "NUM_OF_IDs": "226",
+  "end_station_name": "Clark St \u0026 Schreiber Ave",
+  "AVG_OF_RIDING_LENGTH": "47752978.75664743"
+}, {
+  "NUM_OF_IDs": "98",
+  "end_station_name": "Glenwood Ave \u0026 Touhy Ave",
+  "AVG_OF_RIDING_LENGTH": "9236569.31632653"
+}, {
+  "NUM_OF_IDs": "186",
+  "end_station_name": "Hoyne Ave \u0026 Balmoral Ave",
+  "AVG_OF_RIDING_LENGTH": "7684558.833333333"
+}, {
+  "NUM_OF_IDs": "241",
+  "end_station_name": "Chicago Ave \u0026 Dempster St",
+  "AVG_OF_RIDING_LENGTH": "12962525.15769075"
+}, {
+  "NUM_OF_IDs": "203",
+  "end_station_name": "Chicago Ave \u0026 Sheridan Rd",
+  "AVG_OF_RIDING_LENGTH": "20106871.497536927"
+}, {
+  "NUM_OF_IDs": "355",
+  "end_station_name": "Eastlake Ter \u0026 Rogers Ave",
+  "AVG_OF_RIDING_LENGTH": "18606035.425371684"
+}, {
+  "NUM_OF_IDs": "44",
+  "end_station_name": "Francisco Ave \u0026 Foster Ave",
+  "AVG_OF_RIDING_LENGTH": "7125435.0227272715"
+}, {
+  "NUM_OF_IDs": "100",
+  "end_station_name": "Kedzie Ave \u0026 Bryn Mawr Ave",
+  "AVG_OF_RIDING_LENGTH": "10576867.599999996"
+}, {
+  "NUM_OF_IDs": "224",
+  "end_station_name": "Sheridan Rd \u0026 Columbia Ave",
+  "AVG_OF_RIDING_LENGTH": "9938342.5625309758"
+}, {
+  "NUM_OF_IDs": "307",
+  "end_station_name": "Chicago Ave \u0026 Washington St",
+  "AVG_OF_RIDING_LENGTH": "20084173.986970685"
+}, {
+  "NUM_OF_IDs": "114",
+  "end_station_name": "Lincolnwood Dr \u0026 Central St",
+  "AVG_OF_RIDING_LENGTH": "12135220.50877193"
+}, {
+  "NUM_OF_IDs": "152",
+  "end_station_name": "Sheridan Rd \u0026 Greenleaf Ave",
+  "AVG_OF_RIDING_LENGTH": "41455574.848684192"
+}, {
+  "NUM_OF_IDs": "481",
+  "end_station_name": "Sheridan Rd \u0026 Noyes St (NU)",
+  "AVG_OF_RIDING_LENGTH": "14254483.981288983"
+}, {
+  "NUM_OF_IDs": "145",
+  "end_station_name": "Western Ave \u0026 Granville Ave",
+  "AVG_OF_RIDING_LENGTH": "16836900.63448276"
+}, {
+  "NUM_OF_IDs": "17",
+  "end_station_name": "Maplewood Ave \u0026 Peterson Ave",
+  "AVG_OF_RIDING_LENGTH": "31823323.176470581"
+}, {
+  "NUM_OF_IDs": "72",
+  "end_station_name": "St. Louis Ave \u0026 Balmoral Ave",
+  "AVG_OF_RIDING_LENGTH": "89588030.444444433"
+}, {
+  "NUM_OF_IDs": "57",
+  "end_station_name": "Valli Produce - Evanston Plaza",
+  "AVG_OF_RIDING_LENGTH": "12571690.228070177"
+}, {
+  "NUM_OF_IDs": "29",
+  "end_station_name": "HUBBARD ST BIKE CHECKING (LBS-WH-TEST)",
+  "AVG_OF_RIDING_LENGTH": "1295341503.0000002"
+}, {
+  "NUM_OF_IDs": "327",
+  "end_station_name": "Winchester (Ravenswood) Ave \u0026 Balmoral Ave",
+  "AVG_OF_RIDING_LENGTH": "6580191.04894737"
+}]
